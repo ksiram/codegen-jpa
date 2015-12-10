@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa-config/env
+END
+persistence_xml.vm
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa-config/env/persistence_xml.vm
+END

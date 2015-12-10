@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa/env
+END
+GenericJpaService.vm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa/env/GenericJpaService.vm
+END
+PersistenceConfig.vm
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa/env/PersistenceConfig.vm
+END
+JpaOperation.vm
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa/env/JpaOperation.vm
+END
+JpaEnvironments.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa/env/JpaEnvironments.vm
+END
+JpaEnvironment.vm
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa/env/JpaEnvironment.vm
+END
+PersistenceServiceProvider.vm
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa/env/PersistenceServiceProvider.vm
+END

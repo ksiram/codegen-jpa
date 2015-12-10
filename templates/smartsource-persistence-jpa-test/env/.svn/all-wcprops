@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa-test/env
+END
+MockValues.vm
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa-test/env/MockValues.vm
+END
+GenericFakeService.vm
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa-test/env/GenericFakeService.vm
+END

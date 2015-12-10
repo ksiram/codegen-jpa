@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa-config/maven
+END
+pom_dependencies_common_txt.vm
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa-config/maven/pom_dependencies_common_txt.vm
+END
+pom_dependencies_persistence_txt.vm
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa-config/maven/pom_dependencies_persistence_txt.vm
+END
+pom_persistence_xml.vm
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa-config/maven/pom_persistence_xml.vm
+END

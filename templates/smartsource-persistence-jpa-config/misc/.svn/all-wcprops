@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa-config/misc
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa-config/misc/persistence.xml
+END
+maven-pom.txt
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/smartsource51dao/!svn/ver/114/trunk/smartsource-dao/TelosysTools/templates/smartsource-persistence-jpa-config/misc/maven-pom.txt
+END
